@@ -1,0 +1,7 @@
+6 6 10
+Warrior: 4
+0 0 1 Water 2 40 20 30 2 x
+1 0 2 Air 3 80 20 1 1 n
+1 0 3 Stone 3 80 20 1 1 n
+1 0 4 Flame 3 80 20 1 1 n
+
